@@ -1,0 +1,8 @@
+numpy
+Pillow
+tensorflow==2.9.3
+tk
+opencv-python
+supabase
+python-dotenv
+pywebview
